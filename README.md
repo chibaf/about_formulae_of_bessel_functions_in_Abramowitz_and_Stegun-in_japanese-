@@ -1,5 +1,5 @@
 # about_formulae_of_bessel_functions_in_Abramowitz_and_Stegun
-about_formulae_of_bessel_functions_in_Abramowitz_and_Stegun
+about_formulae_of_bessel_functions_in_Abramowitz_and_Stegun in japanese
 
 （以下敬称略）
 Debyeの論文を探してたが、1909年のものは見つからなかった。代わりに1910年のはあった。1909年のは実数次数で次数を大きくしたときにハンケル関数がどう振る舞うかのもの。1910年のは次数が複素数の場合に拡張している。
