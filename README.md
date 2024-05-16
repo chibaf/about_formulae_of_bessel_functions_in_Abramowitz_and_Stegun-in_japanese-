@@ -12,8 +12,8 @@ Debyeの論文を探してたが、1909年のものは見つからなかった�
 
 ![1](https://github.com/chibaf/about_formulae_of_bessel_functions_in_Abramowitz_and_Stegun/assets/1296728/63976c92-1c0b-4e88-8c54-a2b2a48cadcc)
 
-ここで$\sim$は私は"asymptotically equal"と読んでます
-$\nu$を大きくしたときに比が１に近づくの意味です
+ここで $\sim$ は私は"asymptotically equal"と読んでます
+ $\nu$ を大きくしたときに比が１に近づくの意味です
 
 Abramowitz and Stegunにはなぜか出典が書いてありません
 
